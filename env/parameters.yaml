@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jx-gke/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: bl1@nclasters.org
+  token: local:jx-gke/pipelineUser:token
+  username: jx-bot-demo
+prow:
+  hmacToken: local:jx-gke/prow:hmacToken
