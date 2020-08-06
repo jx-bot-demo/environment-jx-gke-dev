@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[brentlaster/mlq1-training](https://github.com/brentlaster/mlq1-training.git) |  | []() | 
+[brentlaster/mlq2-service](https://github.com/brentlaster/mlq2-service.git) |  | []() | 
