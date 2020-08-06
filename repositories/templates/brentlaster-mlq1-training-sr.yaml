@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: brentlaster
+    provider: github
+    repository: mlq1-training
+  name: brentlaster-mlq1-training
+spec:
+  description: Imported application for brentlaster/mlq1-training
+  httpCloneURL: https://github.com/brentlaster/mlq1-training.git
+  org: brentlaster
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: mlq1-training
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/brentlaster/mlq1-training.git

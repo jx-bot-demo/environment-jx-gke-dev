@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: brentlaster
-  repo: mlq1-service
-  url: https://github.com/brentlaster/mlq1-service.git
+  repo: mlq1-training
+  url: https://github.com/brentlaster/mlq1-training.git
   version: ""
   versionURL: ""
