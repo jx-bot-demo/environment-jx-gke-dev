@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: brentlaster
+  repo: mlq4-training
+  url: https://github.com/brentlaster/mlq4-training.git
+  version: ""
+  versionURL: ""
